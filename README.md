@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](/wcdxw.png)
++ 欢迎访问我的github主页😄
++ welcome to visit my github homepage.
++ 如果你有什么疑问，请联系我哦~
++ if you have any questions,Please contact me.
