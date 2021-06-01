@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### Platform & Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)&nbsp;[![](https://img.shields.io/badge/Intellij-IDEA 2021.1-blue?style=flat-square&logo=intellij-IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)&nbsp;
 
 [![](https://img.shields.io/badge/Redmi-Note7%20Pro-f5010c?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)&nbsp;[![](https://img.shields.io/badge/iPad-Air4-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)&nbsp;
 
